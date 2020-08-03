@@ -26,6 +26,10 @@ pip install flask
 ```
 3. [Node js](https://nodejs.org/en/)
 make sure you have add the path C:\Windows\System32 and the path of nodejs installation to your environment variable.
+4. Flask cors
+```
+pip install flask-cors
+```
 
 ### How to compile on Windows?
 1. Open 2 cmd (to run react as frontend and flask as backend)
